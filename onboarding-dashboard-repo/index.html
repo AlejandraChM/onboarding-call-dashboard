@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Onboarding Attendance Dashboard</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gridjs@5.0.2/dist/theme/mermaid.min.css" integrity="sha384-jZvDSsmGB9oGGT/4l9bHXGoAv1OxvG/cFmSo0dZaSqmBgvQTKDBFAMftlXTmMbNW" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/gridjs@5.0.2/dist/gridjs.umd.js" integrity="sha384-/XXDzxe4FsGiAe50i/u9pY/Vy/uX654MHB1xoc1BJNnH1WXHhqHga9g3q5tF4gj7" crossorigin="anonymous"></script>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #17171a;
+    color: #e8e6e1;
+    padding: 24px;
+  }
+  h1 { font-size: 20px; margin: 0 0 4px 0; color: #f2f0ec; }
+  .subtitle { color: #9a978f; font-size: 13px; margin-bottom: 20px; }
+  .stats { display: flex; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; }
+  .stat-card { background: #212126; border: 1px solid #34333a; border-radius: 10px; padding: 12px 18px; min-width: 140px; }
+  .stat-value { font-size: 22px; font-weight: 600; color: #f2f0ec; }
+  .stat-label { font-size: 12px; color: #9a978f; margin-top: 2px; }
+  .search-box {
+    width: 100%; max-width: 420px; padding: 10px 14px; border-radius: 8px;
+    border: 1px solid #3a3940; background: #212126; color: #e8e6e1; font-size: 14px; margin-bottom: 20px;
+  }
+  .search-box::placeholder { color: #767479; }
+  .search-box:focus { outline: 2px solid #d97757; border-color: #d97757; }
+  .layout { display: grid; grid-template-columns: 360px 1fr; gap: 20px; align-items: start; }
+  .meeting-list { background: #1c1c20; border: 1px solid #34333a; border-radius: 10px; overflow: hidden; max-height: 78vh; overflow-y: auto; }
+  .meeting-item { padding: 12px 16px; border-bottom: 1px solid #2a2a2f; cursor: pointer; }
+  .meeting-item:hover { background: #26262c; }
+  .meeting-item.active { background: #2e2620; border-left: 3px solid #d97757; }
+  .meeting-topic { font-size: 13px; font-weight: 600; margin-bottom: 3px; color: #f2f0ec; }
+  .meeting-meta { font-size: 12px; color: #9a978f; }
+  .meeting-id { font-family: ui-monospace, monospace; font-size: 12px; color: #e0916a; margin-top: 3px; }
+  .detail-panel { background: #1c1c20; border: 1px solid #34333a; border-radius: 10px; padding: 20px; min-height: 200px; }
+  .detail-header { margin-bottom: 14px; }
+  .detail-title { font-size: 16px; font-weight: 600; margin-bottom: 4px; color: #f2f0ec; }
+  .detail-sub { font-size: 13px; color: #9a978f; }
+  .empty-state { color: #767479; font-size: 14px; padding: 40px 0; text-align: center; }
+  .no-results { padding: 24px 16px; color: #767479; font-size: 13px; text-align: center; }
+  .name-match { margin-top: 6px; font-size: 12px; color: #e0916a; background: #3a2a1c; border-radius: 6px; padding: 4px 8px; }
+  .match-banner { margin-bottom: 14px; font-size: 13px; color: #e0916a; background: #3a2a1c; border: 1px solid #5a3c22; border-radius: 8px; padding: 10px 14px; }
+  .gridjs-wrapper { border-radius: 8px !important; border-color: #34333a !important; box-shadow: none !important; background: #1c1c20 !important; }
+  .gridjs-container { color: #e8e6e1 !important; }
+  .gridjs-table { background: #1c1c20 !important; }
+  .gridjs-th { font-size: 12px !important; background: #212126 !important; color: #cfccc4 !important; border-color: #34333a !important; }
+  .gridjs-td { font-size: 13px !important; background: #1c1c20 !important; color: #e8e6e1 !important; border-color: #2a2a2f !important; }
+  tr.gridjs-tr:hover td.gridjs-td { background: #26262c !important; }
+  .gridjs-footer { background: #1c1c20 !important; border-color: #34333a !important; }
+  .gridjs-pagination { color: #cfccc4 !important; }
+  .gridjs-pagination .gridjs-pages button { background: #212126 !important; border-color: #34333a !important; color: #cfccc4 !important; }
+  .gridjs-pagination .gridjs-pages button:hover { background: #2a2a2f !important; }
+  .gridjs-pagination .gridjs-pages button:disabled { background: #1c1c20 !important; color: #55545a !important; }
+  .gridjs-search-input { background: #212126 !important; border-color: #3a3940 !important; color: #e8e6e1 !important; }
+  .gridjs-sort { filter: invert(0.7); }
+</style>
+</head>
+<body>
+
+<div id="loginGate" style="min-height:100vh; display:flex; align-items:center; justify-content:center; flex-direction:column; gap:14px;">
+  <div style="font-size:16px; font-weight:600; color:#f2f0ec;">Onboarding Attendance Dashboard</div>
+  <div style="font-size:13px; color:#9a978f;">Enter the password to continue</div>
+  <form id="loginForm" style="display:flex; gap:8px;">
+    <input id="passwordInput" type="password" placeholder="Password" autocomplete="current-password"
+      style="padding:10px 14px; border-radius:8px; border:1px solid #3a3940; background:#212126; color:#e8e6e1; font-size:14px; min-width:220px;">
+    <button type="submit" style="padding:10px 18px; border-radius:8px; border:none; background:#d97757; color:#fff; font-size:14px; cursor:pointer;">Enter</button>
+  </form>
+  <div id="loginError" style="color:#e0916a; font-size:12px; display:none;">Incorrect password.</div>
+</div>
+
+<div id="app" style="display:none;">
+
+<h1>Onboarding Attendance Dashboard</h1>
+<div class="subtitle" id="subtitleLine">Data synced automatically from Zoom Reports.</div>
+
+<div class="stats" id="stats"></div>
+
+<input type="text" class="search-box" id="searchBox" placeholder="Search by attendee name, meeting number, or topic...">
+
+<div class="layout">
+  <div class="meeting-list" id="meetingList"></div>
+  <div class="detail-panel" id="detailPanel">
+    <div class="empty-state">Select a meeting to see attendees and their duration.</div>
+  </div>
+</div>
+
+</div>
+
+<script>
+const PASSWORD_HASH = "68cce0981f3ec8c967ae51fc216936431c44226960c9a6fc46ec07b31a0849c0";
+let MEETINGS = [];
+
+async function sha256Hex(text) {
+  const enc = new TextEncoder().encode(text);
+  const buf = await crypto.subtle.digest("SHA-256", enc);
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, "0")).join("");
+}
+
+async function loadData() {
+  try {
+    const res = await fetch("./data.json", { cache: "no-store" });
+    MEETINGS = await res.json();
+  } catch (e) {
+    MEETINGS = [];
+    console.error("Could not load data.json", e);
+  }
+  renderStats();
+  renderList("");
+  if (MEETINGS.length > 0) {
+    activeMeetingId = MEETINGS[0].id;
+    renderList("");
+    renderDetail(activeMeetingId);
+  }
+}
+
+function showApp() {
+  document.getElementById("loginGate").style.display = "none";
+  document.getElementById("app").style.display = "block";
+  loadData();
+}
+
+if (sessionStorage.getItem("onboardingDashAuth") === "1") {
+  showApp();
+}
+
+document.getElementById("loginForm").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const val = document.getElementById("passwordInput").value;
+  const hash = await sha256Hex(val);
+  if (hash === PASSWORD_HASH) {
+    sessionStorage.setItem("onboardingDashAuth", "1");
+    document.getElementById("loginError").style.display = "none";
+    showApp();
+  } else {
+    document.getElementById("loginError").style.display = "block";
+  }
+});
+
+function fmtDateShort(s) {
+  if (!s) return "";
+  const parts = s.split(" ");
+  return parts[0];
+}
+
+function renderStats() {
+  const totalMeetings = MEETINGS.length;
+  const totalAttendance = MEETINGS.reduce((sum, m) => sum + m.participants.length, 0);
+  const uniqueNames = new Set();
+  MEETINGS.forEach(m => m.participants.forEach(p => uniqueNames.add(p.name.toLowerCase())));
+  const stats = [
+    { value: totalMeetings, label: "Onboarding sessions" },
+    { value: totalAttendance, label: "Attendance records" },
+    { value: uniqueNames.size, label: "Unique names" },
+  ];
+  document.getElementById("stats").innerHTML = stats.map(s =>
+    `<div class="stat-card"><div class="stat-value">${s.value}</div><div class="stat-label">${s.label}</div></div>`
+  ).join("");
+}
+
+function getNameMatches(m, qLower) {
+  if (!qLower || qLower.length < 2) return [];
+  return m.participants.filter(p => p.name.toLowerCase().includes(qLower));
+}
+
+function matchesQuery(m, q) {
+  if (!q) return true;
+  const qDigits = q.replace(/\D/g, "");
+  const qLower = q.toLowerCase();
+  if (qDigits && qDigits.length >= 4 && m.idDigits.includes(qDigits)) return true;
+  if (m.topic.toLowerCase().includes(qLower)) return true;
+  if (m.id.toLowerCase().includes(qLower)) return true;
+  if (getNameMatches(m, qLower).length > 0) return true;
+  return false;
+}
+
+let activeMeetingId = null;
+
+function renderList(filter) {
+  const container = document.getElementById("meetingList");
+  const qLower = (filter || "").toLowerCase();
+  let filtered = MEETINGS.filter(m => matchesQuery(m, filter));
+  if (filtered.length === 0) {
+    container.innerHTML = '<div class="no-results">No meetings or attendees found for that search.</div>';
+    return;
+  }
+  const withNameMatch = filtered.filter(m => getNameMatches(m, qLower).length > 0);
+  const withoutNameMatch = filtered.filter(m => getNameMatches(m, qLower).length === 0);
+  filtered = withNameMatch.concat(withoutNameMatch);
+
+  container.innerHTML = filtered.map(m => {
+    const nameMatches = getNameMatches(m, qLower);
+    const matchLines = nameMatches.map(p => `
+      <div class="name-match">Match: <strong>${p.name}</strong> &middot; ${p.totalMinutes} min &middot; joined ${(p.firstJoin || "").split(' ').slice(1).join(' ')}</div>
+    `).join("");
+    return `
+    <div class="meeting-item ${m.id === activeMeetingId ? 'active' : ''}" data-id="${m.id}">
+      <div class="meeting-topic">${m.topic}</div>
+      <div class="meeting-meta">${m.start} &middot; ${m.participants.length} attendees &middot; ${m.meetingDurationMin} min</div>
+      <div class="meeting-id">#${m.id}</div>
+      ${matchLines}
+    </div>
+  `;
+  }).join("");
+  container.querySelectorAll(".meeting-item").forEach(el => {
+    el.addEventListener("click", () => {
+      activeMeetingId = el.getAttribute("data-id");
+      renderList(document.getElementById("searchBox").value);
+      renderDetail(activeMeetingId, qLower);
+    });
+  });
+  if (withNameMatch.length > 0 && qLower.length >= 2) {
+    activeMeetingId = withNameMatch[0].id;
+    renderDetail(activeMeetingId, qLower);
+  }
+}
+
+function renderDetail(meetingId, qLower) {
+  const m = MEETINGS.find(x => x.id === meetingId);
+  const panel = document.getElementById("detailPanel");
+  if (!m) {
+    panel.innerHTML = '<div class="empty-state">Select a meeting to see attendees and their duration.</div>';
+    return;
+  }
+  const nameMatches = qLower ? getNameMatches(m, qLower) : [];
+  const banner = nameMatches.length > 0 ? `
+    <div class="match-banner">
+      ${nameMatches.map(p => `<strong>${p.name}</strong> attended this session on <strong>${m.start}</strong> &middot; ${p.totalMinutes} min in the call`).join("<br>")}
+    </div>
+  ` : "";
+  panel.innerHTML = `
+    <div class="detail-header">
+      <div class="detail-title">${m.topic}</div>
+      <div class="detail-sub">#${m.id} &middot; Host: ${m.host} &middot; ${m.start} - ${fmtDateShort(m.end) === fmtDateShort(m.start) ? (m.end || "").split(' ').slice(1).join(' ') : m.end} &middot; Total duration: ${m.meetingDurationMin} min</div>
+    </div>
+    ${banner}
+    <div id="gridWrap"></div>
+  `;
+  const rows = m.participants.map(p => [
+    p.name,
+    p.email || "-",
+    p.totalMinutes,
+    p.sessions,
+    p.firstJoin || "-",
+    p.lastLeave || "-",
+    p.isHost ? "Host" : (p.guest === "Yes" ? "Guest" : "Registered")
+  ]);
+  new gridjs.Grid({
+    columns: ["Name", "Email", "Total min", "Sessions", "First join", "Last leave", "Type"],
+    data: rows,
+    sort: true,
+    search: true,
+    pagination: { limit: 15 },
+    className: { table: "gridjs-wrapper" }
+  }).render(document.getElementById("gridWrap"));
+}
+</script>
+</body>
+</html>
