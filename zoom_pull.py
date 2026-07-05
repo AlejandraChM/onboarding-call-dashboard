@@ -46,6 +46,9 @@ def get_access_token(account_id, client_id, client_secret):
         auth=(client_id, client_secret),
         timeout=30,
     )
+    if not resp.ok:
+        print(f"Zoom token request failed: {resp.status_code}")
+        print(f"Response body: {resp.text}")
     resp.raise_for_status()
     return resp.json()["access_token"]
 
