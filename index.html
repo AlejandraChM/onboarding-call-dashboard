@@ -210,7 +210,7 @@ function renderList(filter) {
     return `
     <div class="meeting-item ${m.id === activeMeetingId ? 'active' : ''}" data-id="${m.id}">
       <div class="meeting-topic">${m.topic}</div>
-      <div class="meeting-meta">${m.start} &middot; ${m.participants.length} asistentes &middot; ${m.meetingDurationMin} min</div>
+      <div class="meeting-meta">${m.start} &middot; ${m.participants.length} attendees &middot; ${m.meetingDurationMin} min</div>
       <div class="meeting-id">#${m.id}</div>
       ${matchLines}
     </div>
