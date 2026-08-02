@@ -72,7 +72,7 @@ def list_past_meetings(token, host_email, date_from, date_to):
             params=params,
             timeout=30,
         )
-        resp.raise_for_status()
+        resp.raise_for_status() if resp.ok else (print(f"List meetings failed: {resp.status_code}: {resp.text}"), resp.raise_for_status())
         data = resp.json()
         meetings.extend(data.get("meetings", []))
         next_page_token = data.get("next_page_token", "")
