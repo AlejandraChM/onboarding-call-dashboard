@@ -188,7 +188,7 @@ def main():
         try:
             parts = get_participants(token, m["uuid"])
         except requests.HTTPError as e:
-            print(f"  skip {m.get('topic')} ({m.get('uuid')}): {e}")
+            print(f"  skip {m.get('topic')} ({m.get('uuid')}): {e} -- body: {e.response.text if e.response is not None else ''}")
             continue
         records.append(build_meeting_record(m, parts, args.host_email))
         print(f"  {m.get('topic')} -- {len(parts)} participant rows")
