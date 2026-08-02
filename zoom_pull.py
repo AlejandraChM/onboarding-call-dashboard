@@ -84,7 +84,7 @@ def list_past_meetings(token, host_email, date_from, date_to):
 def get_participants(token, meeting_uuid):
     """GET /report/meetings/{meetingId}/participants -- attendee list with join/leave/duration (seconds)."""
     # Zoom UUIDs that start with '/' or contain '//' must be double URL-encoded.
-    encoded = requests.utils.quote(requests.utils.quote(meeting_uuid, safe=""), safe="")
+    encoded = requests.utils.quote(requests.utils.quote(meeting_uuid, safe="") if (meeting_uuid.startswith("/") or "//" in meeting_uuid) else meeting_uuid, safe="")
     participants = []
     next_page_token = ""
     while True:
