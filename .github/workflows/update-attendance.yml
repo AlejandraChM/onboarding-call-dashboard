@@ -39,8 +39,10 @@ jobs:
 
       - name: Commit updated data if changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Vercel Hobby only deploys commits authored by the account owner,
+          # so commit as AlejandraChM instead of github-actions[bot].
+          git config user.name "AlejandraChM"
+          git config user.email "299172165+AlejandraChM@users.noreply.github.com"
           if ! git diff --quiet -- data.json; then
             git add data.json
             git commit -m "Update onboarding attendance data [automated]"
