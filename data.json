@@ -1,5 +1,3547 @@
 [
   {
+    "id": "843 9101 2327",
+    "idDigits": "84391012327",
+    "topic": "Onboarding Session (77 of 100 spots filled)",
+    "host": "Workada Events",
+    "hostEmail": "events@op.workada.co",
+    "start": "2026-10-21T18:29:32Z",
+    "end": "2026-10-21T19:00:54Z",
+    "meetingDurationMin": 32,
+    "participantCount": 79,
+    "participants": [
+      {
+        "name": "Workada Events",
+        "email": "events@op.workada.co",
+        "totalMinutes": 32,
+        "sessions": 1,
+        "firstJoin": "2026-10-21T18:29:32Z",
+        "lastLeave": "2026-10-21T19:00:55Z",
+        "isHost": true,
+        "guest": "No"
+      },
+      {
+        "name": "Erika Poteat",
+        "email": null,
+        "totalMinutes": 64,
+        "sessions": 4,
+        "firstJoin": "2026-10-21T18:29:35Z",
+        "lastLeave": "2026-10-21T19:00:55Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Patrick Espinosa",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "AJ H",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Clement Ajatoye",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "mandy",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Eric Manoa",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:45Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "DeMarcus McLain",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "sandra",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "michael oduntan",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:35Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Desirae Janowiak",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:36Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Alex Lee",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:26Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "brittanyfuller",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Michal Allen",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Malik Bellamy",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Skyler Hartman",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Gianluca Fonte",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Secilia Henry",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "BORIS BIKAI",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:35Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Carlos D Simé",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:35Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Phyllis Waugh",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:35Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Lakell Williams ",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:35Z",
+        "lastLeave": "2026-10-21T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Marriah Burke",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:36Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Leah Ivery",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:37Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kawaan Varrie",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:38Z",
+        "lastLeave": "2026-10-21T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ashley Mason",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:39Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Abdou  Mbaye",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:40Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Qais Wahidi",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:41Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Olumide Odubunmi",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:41Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Michelangelo Pepe",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:43Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Alex K",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:45Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "David Handog",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:48Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Anisia La Rosa",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:48Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Me'Osha Dillard",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:51Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jess Phone",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 4,
+        "firstJoin": "2026-10-21T18:29:51Z",
+        "lastLeave": "2026-10-21T18:58:12Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ava Moore",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:54Z",
+        "lastLeave": "2026-10-21T19:00:40Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Tracy Pacheco",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:55Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Janine Jamison",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:56Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "sam",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:57Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Denise D.",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:59Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Katrena Pringle",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:00Z",
+        "lastLeave": "2026-10-21T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Christine Ta",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:00Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "onyemaechi",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:01Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Rasmine price",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:13Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Adrian Sobol",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:14Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Dan W",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:15Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Rebecca Rackley",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:16Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Amy Fontenot",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:17Z",
+        "lastLeave": "2026-10-21T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Gamel (Ehi DT) Idiakhoa",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:19Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Veda Shruthi",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:20Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Heather",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:30Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "heather",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:32Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Gordon Sorensen",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:58Z",
+        "lastLeave": "2026-10-21T19:00:32Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ola Fatungase",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:35Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Petar Oldja ( webst )",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 1,
+        "firstJoin": "2026-10-21T18:30:37Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jayda Crawford",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:42Z",
+        "lastLeave": "2026-10-21T19:00:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Sarah",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:43Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Luis Lopez Colon",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:50Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "iphone",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:31:12Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Callie",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:31:15Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ruy Vasquez",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:31:22Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "dav",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:31:58Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Anudari [C] Ganbold",
+        "email": null,
+        "totalMinutes": 29,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:31:30Z",
+        "lastLeave": "2026-10-21T18:59:09Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "A Desinord",
+        "email": null,
+        "totalMinutes": 29,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:33:17Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Femi Jammie",
+        "email": null,
+        "totalMinutes": 29,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:33:23Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Katlyn Butts",
+        "email": null,
+        "totalMinutes": 28,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:50Z",
+        "lastLeave": "2026-10-21T18:57:17Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Benjamin",
+        "email": null,
+        "totalMinutes": 28,
+        "sessions": 3,
+        "firstJoin": "2026-10-21T18:35:10Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "abdul (hillcrest)",
+        "email": null,
+        "totalMinutes": 27,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:45Z",
+        "lastLeave": "2026-10-21T18:55:37Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "phyllis waugh",
+        "email": null,
+        "totalMinutes": 27,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:35:14Z",
+        "lastLeave": "2026-10-21T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Emmanuel Popoola",
+        "email": null,
+        "totalMinutes": 26,
+        "sessions": 4,
+        "firstJoin": "2026-10-21T18:31:04Z",
+        "lastLeave": "2026-10-21T18:59:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Tina Sams",
+        "email": null,
+        "totalMinutes": 24,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:29:35Z",
+        "lastLeave": "2026-10-21T18:52:41Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Latrell Pride",
+        "email": null,
+        "totalMinutes": 24,
+        "sessions": 3,
+        "firstJoin": "2026-10-21T18:29:58Z",
+        "lastLeave": "2026-10-21T18:53:04Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Tobe",
+        "email": null,
+        "totalMinutes": 19,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:31:46Z",
+        "lastLeave": "2026-10-21T18:49:47Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Rasmine Price",
+        "email": null,
+        "totalMinutes": 11,
+        "sessions": 1,
+        "firstJoin": "2026-10-21T18:41:07Z",
+        "lastLeave": "2026-10-21T18:51:08Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Femi jammie",
+        "email": null,
+        "totalMinutes": 6,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:32:01Z",
+        "lastLeave": "2026-10-21T18:36:39Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "rasmine price",
+        "email": null,
+        "totalMinutes": 4,
+        "sessions": 1,
+        "firstJoin": "2026-10-21T18:37:56Z",
+        "lastLeave": "2026-10-21T18:40:57Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "webst",
+        "email": null,
+        "totalMinutes": 2,
+        "sessions": 1,
+        "firstJoin": "2026-10-21T18:29:34Z",
+        "lastLeave": "2026-10-21T18:30:37Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ava's Notetaker (Otter.ai)",
+        "email": null,
+        "totalMinutes": 2,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T18:30:09Z",
+        "lastLeave": "2026-10-21T18:31:35Z",
+        "isHost": false,
+        "guest": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "846 1589 9972",
+    "idDigits": "84615899972",
+    "topic": "Onboarding Session (90 of 100 spots filled)",
+    "host": "Workada Events",
+    "hostEmail": "events@op.workada.co",
+    "start": "2026-10-21T17:29:35Z",
+    "end": "2026-10-21T18:01:31Z",
+    "meetingDurationMin": 32,
+    "participantCount": 89,
+    "participants": [
+      {
+        "name": "Workada Events",
+        "email": "events@op.workada.co",
+        "totalMinutes": 32,
+        "sessions": 1,
+        "firstJoin": "2026-10-21T17:29:35Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": true,
+        "guest": "No"
+      },
+      {
+        "name": "iPhone",
+        "email": null,
+        "totalMinutes": 60,
+        "sessions": 4,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Princewill Ani",
+        "email": null,
+        "totalMinutes": 34,
+        "sessions": 4,
+        "firstJoin": "2026-10-21T17:29:47Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Joshua Redfearn",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:36Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Justin",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Elissa Capelle Vaughn",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Cameron Reader",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Tracee Addison",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Marina Ihlenfeldt",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Gigi",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Breona Porter",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Cathy Williams",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Samsung SM-S938U",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Abbi Marshall",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Brittany Crumpton",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "poonamdesai",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Martha",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Queen Smith",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jennifer Lariviere",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Hunter W",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Zoom user",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Danielle Stanley",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Wilson Ruiz",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Gabrielle",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Katey Frampton",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ambar miniel",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:37Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Nathan Haislip",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:38Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Demetrius",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:38Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "charlesdias",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:38Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Erika Fairley",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:38Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Teresa Dalton",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:38Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Osjha Doe",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:38Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "cj mboli-goumba",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:38Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Sherry Stapleton",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:38Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Aisha Higgins",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:39Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Cathleen Keller",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:43Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jayla Brinker",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:44Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Eyitayo Olanrewaju",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:45Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Conner Hall",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:45Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Danyel Harrell",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:46Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Chibuzor",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:47Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Coraima Wherry",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:47Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Isabella Badenoch",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:47Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Dinusha Karunatilleke",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:47Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Shavon Stewart",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:47Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Melodie Hardison",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:48Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Lavanya ",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:49Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ximena Rodriguez",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:52Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Vitalis Dubininkas",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 3,
+        "firstJoin": "2026-10-21T17:29:53Z",
+        "lastLeave": "2026-10-21T17:58:58Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Robert Douglas Garrett",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:53Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "J.Abernathy",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:54Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Priscilla",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:54Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Mark Gorman",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:54Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Felix Reyes Jaen, Miami, FL",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:55Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Nikher Bagai",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:57Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Emmanuella Akere",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:58Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "jason",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:30:01Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Antoinette",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:30:05Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "jen",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:30:05Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kendria",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:30:06Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Carmen",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:30:09Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "kelli ordorica",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:30:12Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Lauren Irish",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:30:15Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Mayra G.",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 3,
+        "firstJoin": "2026-10-21T17:30:30Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Sanya Saif",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:30:19Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Dustin ( Dustin Edge )",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 1,
+        "firstJoin": "2026-10-21T17:30:19Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Michelle McCartney ( qtbab )",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 1,
+        "firstJoin": "2026-10-21T17:30:21Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Isaac Shadare",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:30:38Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "A",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:30:52Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Eric Fields",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:31:08Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Declan Evans",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:31:11Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Nana-Serwaah Nyannor",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:31:14Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Patrick",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:31:15Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Lavanya L ( lavanyalakshmilokadolalu )",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 1,
+        "firstJoin": "2026-10-21T17:31:07Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ziza",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:31:25Z",
+        "lastLeave": "2026-10-21T18:00:35Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Chinedu",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:31:28Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "modupe",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:31:31Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kemi Olunloyo",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:31:47Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Shedk",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:32:04Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Michael Atuokwu",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:32:24Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "McNeil Ridore",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 3,
+        "firstJoin": "2026-10-21T17:29:55Z",
+        "lastLeave": "2026-10-21T17:59:35Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Daniel okah",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:30:59Z",
+        "lastLeave": "2026-10-21T17:59:10Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Andrea Smith",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:32:56Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Carlos",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:33:06Z",
+        "lastLeave": "2026-10-21T18:01:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Carter",
+        "email": null,
+        "totalMinutes": 26,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:29:41Z",
+        "lastLeave": "2026-10-21T17:55:13Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Latrell Pride",
+        "email": null,
+        "totalMinutes": 20,
+        "sessions": 2,
+        "firstJoin": "2026-10-21T17:42:26Z",
+        "lastLeave": "2026-10-21T18:01:31Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Tracy Pacheco",
+        "email": null,
+        "totalMinutes": 16,
+        "sessions": 4,
+        "firstJoin": "2026-10-21T17:37:49Z",
+        "lastLeave": "2026-10-21T17:47:13Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "qtbab",
+        "email": null,
+        "totalMinutes": 1,
+        "sessions": 1,
+        "firstJoin": "2026-10-21T17:29:36Z",
+        "lastLeave": "2026-10-21T17:30:20Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Dustin Edge",
+        "email": null,
+        "totalMinutes": 1,
+        "sessions": 1,
+        "firstJoin": "2026-10-21T17:29:47Z",
+        "lastLeave": "2026-10-21T17:30:18Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "lavanyalakshmilokadolalu",
+        "email": null,
+        "totalMinutes": 1,
+        "sessions": 1,
+        "firstJoin": "2026-10-21T17:31:02Z",
+        "lastLeave": "2026-10-21T17:31:06Z",
+        "isHost": false,
+        "guest": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "878 9367 9044",
+    "idDigits": "87893679044",
+    "topic": "Onboarding Session (75 of 100 spots filled)",
+    "host": "Workada Events",
+    "hostEmail": "events@op.workada.co",
+    "start": "2026-10-20T18:30:14Z",
+    "end": "2026-10-20T19:00:54Z",
+    "meetingDurationMin": 31,
+    "participantCount": 82,
+    "participants": [
+      {
+        "name": "Workada Events",
+        "email": "events@op.workada.co",
+        "totalMinutes": 31,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T18:30:14Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": true,
+        "guest": "No"
+      },
+      {
+        "name": "Josh",
+        "email": null,
+        "totalMinutes": 36,
+        "sessions": 4,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kevin Thompson",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 3,
+        "firstJoin": "2026-10-20T18:30:16Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ike",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 4,
+        "firstJoin": "2026-10-20T18:30:18Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ciera C",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 3,
+        "firstJoin": "2026-10-20T18:30:26Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "JoAndra",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 4,
+        "firstJoin": "2026-10-20T18:30:26Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Laura Young",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:15Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kylie Angle (Mythic)",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:16Z",
+        "lastLeave": "2026-10-20T19:00:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Leon Scott",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:16Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Youmna Elnagaawy",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:16Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Amy",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:16Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jocelyn Arsenault",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:16Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Isaiah LeDuc",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Blake Johnston",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "AdieBuzz",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "James Wallace",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Alex",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Timothy Williams",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Anita Nichelle Clay",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Melissa Prescott",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kiefer Cummings",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Betty Raines",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Sheikh Abdul Khader",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Shanell Copeland",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Brittani Grant",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kyle Hood",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Gerard Endres",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Greg E.",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Fireflies.ai Notetaker BOLAJI",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:18Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Brittany Verdugo",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:18Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Isaac Moneke",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:18Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jenny Lizotte",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:19Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Oluwatobiloba Azeez",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:19Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Samuel Omotosho",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:22Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Samsung SM-A546V",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:23Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Salma",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:26Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Batuhan S.",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:26Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Teona Middleton",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:27Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jonathan Oliva",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:28Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "nelo",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:30Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Meriem",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:42Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Michael",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:43Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Savita Chaudhary",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:45Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ashley",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T19:00:07Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jasmine Taylor",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:20Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "D.O ( Oladeji Olaore )",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T18:30:24Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Bolaji Bamidele",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:42Z",
+        "lastLeave": "2026-10-20T19:00:25Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Sri Krishna Chowdary Polina",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:53Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Tiffany Bonner",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:31:05Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "oluchi",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:31:05Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Emily",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:31:06Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ernesto Molina",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:31:12Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jean Silva",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 3,
+        "firstJoin": "2026-10-20T18:31:50Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "OKE TUDJEGBE",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 3,
+        "firstJoin": "2026-10-20T18:30:16Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Eric Marino",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:23Z",
+        "lastLeave": "2026-10-20T18:59:18Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Tina Casagrande",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:31:00Z",
+        "lastLeave": "2026-10-20T18:59:21Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Harvey Lahti",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:31:56Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Tiarra",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:31:59Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Mikey Andoh",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:31:56Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Nelissa",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:32:24Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Olawale",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:32:36Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Nikki",
+        "email": null,
+        "totalMinutes": 29,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:33:34Z",
+        "lastLeave": "2026-10-20T19:00:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Aleya Barber",
+        "email": null,
+        "totalMinutes": 28,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:34:11Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Varun B.",
+        "email": null,
+        "totalMinutes": 28,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:34:42Z",
+        "lastLeave": "2026-10-20T19:00:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Anna Singer",
+        "email": null,
+        "totalMinutes": 24,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T18:52:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "DeVonte Wilson",
+        "email": null,
+        "totalMinutes": 24,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T18:53:22Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kehiku A.",
+        "email": null,
+        "totalMinutes": 24,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:50Z",
+        "lastLeave": "2026-10-20T18:53:17Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Tierra Martin",
+        "email": null,
+        "totalMinutes": 22,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:44Z",
+        "lastLeave": "2026-10-20T18:51:22Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Chelsea Bamrick",
+        "email": null,
+        "totalMinutes": 21,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:18Z",
+        "lastLeave": "2026-10-20T18:49:51Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Bethany Mitchell",
+        "email": null,
+        "totalMinutes": 19,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:16Z",
+        "lastLeave": "2026-10-20T18:48:08Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Madalyn Rodriguez",
+        "email": null,
+        "totalMinutes": 19,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:53Z",
+        "lastLeave": "2026-10-20T18:48:13Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Nifemi Ogunjobi",
+        "email": null,
+        "totalMinutes": 15,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:35:21Z",
+        "lastLeave": "2026-10-20T18:49:20Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Rachel T Computer",
+        "email": null,
+        "totalMinutes": 8,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:35:36Z",
+        "lastLeave": "2026-10-20T18:42:08Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "19198018239",
+        "email": null,
+        "totalMinutes": 6,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T18:30:42Z",
+        "lastLeave": "2026-10-20T18:35:47Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Harvey's Notetaker (Otter.ai)",
+        "email": null,
+        "totalMinutes": 3,
+        "sessions": 3,
+        "firstJoin": "2026-10-20T18:31:08Z",
+        "lastLeave": "2026-10-20T18:31:18Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Harvey Lahti's Calendly Nоtеtаkеr",
+        "email": null,
+        "totalMinutes": 2,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:30:23Z",
+        "lastLeave": "2026-10-20T18:30:36Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "endrigan",
+        "email": null,
+        "totalMinutes": 2,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T18:33:56Z",
+        "lastLeave": "2026-10-20T18:35:08Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Oladeji Olaore",
+        "email": null,
+        "totalMinutes": 1,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T18:30:17Z",
+        "lastLeave": "2026-10-20T18:30:24Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jean Ojeda Silva",
+        "email": null,
+        "totalMinutes": 1,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T18:38:37Z",
+        "lastLeave": "2026-10-20T18:39:35Z",
+        "isHost": false,
+        "guest": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "889 9755 5790",
+    "idDigits": "88997555790",
+    "topic": "Onboarding Session (95 of 100 spots filled)",
+    "host": "Workada Events",
+    "hostEmail": "events@op.workada.co",
+    "start": "2026-10-20T17:30:20Z",
+    "end": "2026-10-20T18:01:49Z",
+    "meetingDurationMin": 32,
+    "participantCount": 94,
+    "participants": [
+      {
+        "name": "Workada Events",
+        "email": "events@op.workada.co",
+        "totalMinutes": 32,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:30:20Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": true,
+        "guest": "No"
+      },
+      {
+        "name": "Emily",
+        "email": null,
+        "totalMinutes": 61,
+        "sessions": 6,
+        "firstJoin": "2026-10-20T17:30:26Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Edward Geller",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:21Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Shana Malette",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:21Z",
+        "lastLeave": "2026-10-20T18:01:44Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Buchi",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:21Z",
+        "lastLeave": "2026-10-20T18:01:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kennith Petty",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:21Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "jennifer.ramirez",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:21Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Katherine F",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:21Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Oyedotun Anthony",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:21Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kimberly Gore",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Fernanda Oliveira",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Muneeb Bukhari",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ashley",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:45Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Rabia",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Melody Johnson",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Dia Syed Eliyas",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jalia Smallwood",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Holly B. Tomky",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "wrbra",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Madeline",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Joseph Akobundu",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Frantz Guerrrier",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Megan",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Dylan Hanson",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Oge Ogo",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:23Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Daryll Brown",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:23Z",
+        "lastLeave": "2026-10-20T18:01:43Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "James",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:23Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Brieana Clendenning",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:23Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Aryan",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:25Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Maura H",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:28Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Angela Nettleton",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:29Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Rosetta L",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:33Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jorgeluis Hernandez",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:34Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "iPhone",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:35Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Margie Edmonds",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:35Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Lonnie Sanderson",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:36Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Olayemi Okugo",
+        "email": null,
+        "totalMinutes": 33,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:38Z",
+        "lastLeave": "2026-10-20T18:01:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Elle B",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:21Z",
+        "lastLeave": "2026-10-20T18:01:20Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "abby",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:27Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kathy",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Suvendra Bipiah",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:01:41Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Maulik Patel",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:25Z",
+        "lastLeave": "2026-10-20T18:01:10Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Chukwuemeka ( Chukwuemeka Okugo )",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:30:30Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Gina A ( Gina (YoGabagoof) )",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:30:33Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Mark Albrecht ( mrs albrecht20 )",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:30:33Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Alex O ( Alex Otil )",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:30:33Z",
+        "lastLeave": "2026-10-20T18:01:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "May DeGilio",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:40Z",
+        "lastLeave": "2026-10-20T18:01:36Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Carson Brown",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:43Z",
+        "lastLeave": "2026-10-20T18:01:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "039429",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:48Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ameka",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:50Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ifeanyi",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:54Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Adrienne C",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:31:04Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Daniel Babalola",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:31:11Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "rhiannon",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:31:12Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Evo",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:31:13Z",
+        "lastLeave": "2026-10-20T18:01:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Keith Bradshaw",
+        "email": null,
+        "totalMinutes": 32,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:31:19Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jesus Garcia",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T18:00:07Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ezekiel Nunoo-Dadzie",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:26Z",
+        "lastLeave": "2026-10-20T17:59:39Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Rebecca Gillespie",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:39Z",
+        "lastLeave": "2026-10-20T18:00:13Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Tobias Todd Sr.",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:49Z",
+        "lastLeave": "2026-10-20T18:01:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Dana C. ( Dana L. Cox | Positioned to Paid )",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:30:51Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kea C. Young",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:31:27Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Dami Gilbert",
+        "email": null,
+        "totalMinutes": 31,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:32:33Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Matt’s iPhone",
+        "email": null,
+        "totalMinutes": 30,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:33:03Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Roy Sharma",
+        "email": null,
+        "totalMinutes": 29,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T17:58:27Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "jackiemedeiros",
+        "email": null,
+        "totalMinutes": 29,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T17:58:10Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Nicola",
+        "email": null,
+        "totalMinutes": 29,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:25Z",
+        "lastLeave": "2026-10-20T17:58:19Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Ik",
+        "email": null,
+        "totalMinutes": 29,
+        "sessions": 8,
+        "firstJoin": "2026-10-20T17:31:12Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Cereana",
+        "email": null,
+        "totalMinutes": 28,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:27Z",
+        "lastLeave": "2026-10-20T17:57:09Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Harshit Kawatra",
+        "email": null,
+        "totalMinutes": 28,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:35Z",
+        "lastLeave": "2026-10-20T17:57:01Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Caitlin Keane",
+        "email": null,
+        "totalMinutes": 28,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:35:33Z",
+        "lastLeave": "2026-10-20T18:01:46Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Chris’ iPhone",
+        "email": null,
+        "totalMinutes": 27,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T17:55:52Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kiana",
+        "email": null,
+        "totalMinutes": 27,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:33:01Z",
+        "lastLeave": "2026-10-20T17:58:54Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Bogdan Kovalov",
+        "email": null,
+        "totalMinutes": 27,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:35:53Z",
+        "lastLeave": "2026-10-20T18:01:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "S.Ariel Moore",
+        "email": null,
+        "totalMinutes": 25,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:21Z",
+        "lastLeave": "2026-10-20T17:53:42Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "14075352212",
+        "email": null,
+        "totalMinutes": 25,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:34:32Z",
+        "lastLeave": "2026-10-20T17:58:34Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Paolo Poemape",
+        "email": null,
+        "totalMinutes": 24,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T17:53:25Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Luke Haggerty",
+        "email": null,
+        "totalMinutes": 23,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T17:52:15Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Sai",
+        "email": null,
+        "totalMinutes": 22,
+        "sessions": 3,
+        "firstJoin": "2026-10-20T17:30:24Z",
+        "lastLeave": "2026-10-20T17:51:07Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Nonso",
+        "email": null,
+        "totalMinutes": 22,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:50Z",
+        "lastLeave": "2026-10-20T17:51:48Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Tierra Coleman",
+        "email": null,
+        "totalMinutes": 22,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:34:30Z",
+        "lastLeave": "2026-10-20T17:54:41Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "American Esparza",
+        "email": null,
+        "totalMinutes": 21,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:23Z",
+        "lastLeave": "2026-10-20T17:50:19Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Shamane ",
+        "email": null,
+        "totalMinutes": 21,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:52Z",
+        "lastLeave": "2026-10-20T17:50:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jessica Morris",
+        "email": null,
+        "totalMinutes": 20,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T17:49:30Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kadishia",
+        "email": null,
+        "totalMinutes": 20,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:23Z",
+        "lastLeave": "2026-10-20T17:49:25Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Adeyemi",
+        "email": null,
+        "totalMinutes": 20,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:31:51Z",
+        "lastLeave": "2026-10-20T17:49:57Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "jcabe",
+        "email": null,
+        "totalMinutes": 19,
+        "sessions": 4,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T17:49:58Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "read.ai meeting notes",
+        "email": null,
+        "totalMinutes": 12,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:21Z",
+        "lastLeave": "2026-10-20T17:40:43Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jean Paul Salas Plata",
+        "email": null,
+        "totalMinutes": 12,
+        "sessions": 3,
+        "firstJoin": "2026-10-20T17:38:01Z",
+        "lastLeave": "2026-10-20T17:48:57Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Jasmin A.",
+        "email": null,
+        "totalMinutes": 8,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:49:38Z",
+        "lastLeave": "2026-10-20T17:54:46Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kathleen Coleman",
+        "email": null,
+        "totalMinutes": 5,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:39Z",
+        "lastLeave": "2026-10-20T17:34:53Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "James Wallace",
+        "email": null,
+        "totalMinutes": 5,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:38:26Z",
+        "lastLeave": "2026-10-20T17:43:20Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Kiana Walker",
+        "email": null,
+        "totalMinutes": 3,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:39Z",
+        "lastLeave": "2026-10-20T17:32:32Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "14192764056",
+        "email": null,
+        "totalMinutes": 3,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:49:11Z",
+        "lastLeave": "2026-10-20T17:51:21Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Sri Krishna Chowdary Polina",
+        "email": null,
+        "totalMinutes": 3,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:58:50Z",
+        "lastLeave": "2026-10-20T18:01:49Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Dana's Notetaker (Otter.ai)",
+        "email": null,
+        "totalMinutes": 2,
+        "sessions": 2,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T17:31:35Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "mrs albrecht20",
+        "email": null,
+        "totalMinutes": 1,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:30:22Z",
+        "lastLeave": "2026-10-20T17:30:33Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Alex Otil",
+        "email": null,
+        "totalMinutes": 1,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:30:24Z",
+        "lastLeave": "2026-10-20T17:30:32Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Gina (YoGabagoof)",
+        "email": null,
+        "totalMinutes": 1,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:30:27Z",
+        "lastLeave": "2026-10-20T17:30:32Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Chukwuemeka Okugo",
+        "email": null,
+        "totalMinutes": 1,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:30:28Z",
+        "lastLeave": "2026-10-20T17:30:29Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "Dana L. Cox | Positioned to Paid",
+        "email": null,
+        "totalMinutes": 1,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:30:44Z",
+        "lastLeave": "2026-10-20T17:30:50Z",
+        "isHost": false,
+        "guest": "Yes"
+      },
+      {
+        "name": "19198018239",
+        "email": null,
+        "totalMinutes": 1,
+        "sessions": 1,
+        "firstJoin": "2026-10-20T17:48:57Z",
+        "lastLeave": "2026-10-20T17:49:40Z",
+        "isHost": false,
+        "guest": "Yes"
+      }
+    ]
+  },
+  {
     "id": "898 9634 0633",
     "idDigits": "89896340633",
     "topic": "Onboarding Session (96 of 100 spots filled)",
